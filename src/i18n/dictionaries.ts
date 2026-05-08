@@ -6,98 +6,95 @@ export const dictionaries = {
       menu: "Menú",
       sauces: "Salsas",
       desserts: "Postres",
-      about: "Sobre Diana",
+      about: "Nuestra Historia",
       contact: "Contacto",
       whatsapp: "Cotizar por WhatsApp"
     },
     hero: {
-      headline: "Catering casero mexicano para reuniones con sabor de hogar",
-      subheadline: "Diana Flores prepara comida mexicana auténtica en Chihuahua, con servicio de catering, montaje para eventos, pedidos para recoger, postres artesanales y salsas embotelladas.",
+      headline: "Catering mexicano casero con un toque de elegancia.",
+      subheadline: "Diana Flores ofrece catering mexicano casero en Chihuahua, combinando el sabor familiar de la cocina hecha en casa con una presentación cuidada para eventos especiales.",
       primaryCta: "Cotizar por WhatsApp",
-      secondaryCta: "Ver menú"
+      secondaryCta: "Explorar menú"
     },
     valueProps: [
       {
         title: "Sabor casero auténtico",
-        description: "Recetas mexicanas preparadas con cuidado, sazón y tradición."
+        description: "Recetas mexicanas preparadas con cuidado, sazón y la más alta calidad en cada ingrediente."
       },
       {
-        title: "Catering para tus eventos",
-        description: "Ideal para reuniones familiares, cumpleaños, comidas de oficina y celebraciones."
+        title: "Experiencias memorables",
+        description: "Ideal para reuniones íntimas, celebraciones de oficina y eventos familiares que merecen lo mejor."
       },
       {
-        title: "Montaje y servicio confiable",
-        description: "Diana puede apoyar con la preparación, presentación y montaje del catering."
+        title: "Servicio impecable",
+        description: "Diana apoya con la preparación, presentación impecable y un montaje confiable de principio a fin."
       },
       {
-        title: "También para recoger",
-        description: "Opciones de comida, postres y salsas disponibles para pickup."
+        title: "Opciones exclusivas para llevar",
+        description: "Exquisitos platillos, postres artesanales y salsas de la casa, disponibles sobre pedido."
       }
     ],
     catering: {
-      headline: "Catering mexicano para reuniones, fiestas y eventos especiales",
-      body: "Desde comidas familiares hasta celebraciones más grandes, Diana prepara platillos mexicanos con sabor casero, porciones generosas y una presentación pensada para que tus invitados disfruten sin complicaciones.",
+      headline: "El sabor de casa, servido para tus invitados",
+      body: "Desde cálidas cenas familiares hasta celebraciones inolvidables. Diana prepara platillos mexicanos que deleitan el paladar, presentados con una elegancia que eleva cualquier ocasión especial.",
       events: [
-        "Reuniones familiares",
+        "Reuniones íntimas",
         "Cumpleaños",
         "Bautizos",
-        "Posadas",
-        "Comidas de oficina",
+        "Comidas corporativas",
         "Celebraciones privadas",
-        "Eventos pequeños y medianos"
+        "Eventos tipo boutique"
       ],
       cta: "Cotizar mi evento"
     },
     menu: {
-      title: "Menú y Especialidades",
-      body: "El menú puede adaptarse según el tipo de evento, número de invitados y preferencias de sabor. Pregunta por opciones disponibles para catering o pedidos para recoger.",
+      title: "Selección Culinaria",
+      body: "Un menú diseñado para adaptarse a la elegancia de tu evento y a tus preferencias personales. Cada platillo es preparado desde cero.",
       categories: [
-        "Guisos mexicanos",
-        "Tacos y taquizas",
-        "Enchiladas",
-        "Chiles rellenos",
-        "Mole",
-        "Tamales",
-        "Sopas y caldos",
-        "Arroz, frijoles y guarniciones",
-        "Postres caseros",
-        "Salsas embotelladas"
+        "Alta cocina mexicana",
+        "Taquizas premium",
+        "Enchiladas artesanales",
+        "Chiles rellenos de autor",
+        "Sopas y cremas",
+        "Guarniciones selectas",
+        "Mesa de postres",
+        "Salsas de la casa"
       ],
       cardCta: "Consultar disponibilidad"
     },
     sauces: {
-      headline: "Salsas embotelladas con carácter casero",
-      body: "Diana también prepara salsas embotelladas con sabores intensos, ideales para acompañar tacos, guisos, carnes, antojitos y comidas del día a día.",
+      headline: "Salsas de autor",
+      body: "Elaboradas en pequeños lotes, nuestras salsas embotelladas aportan el balance perfecto de intensidad y sabor para tus comidas.",
       products: [
-        { name: "Salsa roja", profile: "Clásica, nivel medio" },
-        { name: "Salsa verde", profile: "Fonda, nivel medio" },
-        { name: "Salsa macha", profile: "Picante, textura crujiente" },
-        { name: "Salsa especial de la casa", profile: "Receta secreta, ahumada" }
+        { name: "Salsa Roja Clásica", profile: "Equilibrada y versátil" },
+        { name: "Salsa Verde Fresca", profile: "Toques cítricos y vibrantes" },
+        { name: "Salsa Macha Artesanal", profile: "Picante profundo y textura crujiente" },
+        { name: "Salsa Secreta Ahumada", profile: "Carácter robusto y elegante" }
       ]
     },
     desserts: {
-      headline: "Postres y repostería para compartir",
-      body: "Además de comida mexicana, Diana prepara postres y detalles dulces para reuniones, celebraciones y pedidos especiales.",
+      headline: "Dulces terminaciones",
+      body: "La repostería de Diana añade un toque de calidez a cualquier celebración, elaborada con los mismos estándares de excelencia.",
       categories: [
-        "Pasteles",
-        "Gelatinas",
-        "Flanes",
-        "Galletas",
-        "Dulces caseros",
-        "Postres para eventos"
+        "Pasteles personalizados",
+        "Postres en copa",
+        "Flan artesanal",
+        "Galletas finas",
+        "Mesas de dulces"
       ]
     },
     about: {
-      title: "Conoce a Diana",
-      body: "Diana Flores es una chef de casa en Chihuahua con una pasión por la comida mexicana, los sabores familiares y la cocina hecha con dedicación. Su estilo combina recetas tradicionales, sazón casero y una atención especial a los detalles que hacen que cada reunión se sienta más cálida y memorable.\n\nAdemás de catering, Diana prepara postres, repostería y salsas embotelladas, ofreciendo una propuesta completa para quienes buscan comida hecha con cuidado, sabor y confianza."
+      title: "Nuestra Filosofía",
+      body: "Para Diana Flores, la cocina es más que alimento; es el lenguaje del cuidado y la celebración. Con base en Chihuahua, su propuesta gastronómica busca honrar la riqueza de la cocina mexicana casera, elevándola a través de una presentación pulcra y una atención absoluta al detalle.\n\nCada evento es una oportunidad para crear recuerdos en torno a la mesa, ofreciendo no solo comida excepcional, sino una experiencia cálida, confiable y profundamente satisfactoria."
     },
     contact: {
-      headline: "Cuéntale a Diana sobre tu evento",
-      body: "Envía un mensaje por WhatsApp con la fecha de tu evento, número aproximado de personas y el tipo de comida que tienes en mente.",
+      headline: "Comienza a planear tu evento",
+      body: "Envíanos un mensaje directo para conversar sobre fechas, número de invitados y descubrir cómo podemos hacer de tu próxima reunión algo extraordinario.",
       cta: "Enviar mensaje por WhatsApp"
     },
     whatsapp: {
-      prefilledCatering: "Hola Diana, me gustaría cotizar un servicio de catering. Mi evento es para [número de personas] personas el día [fecha]."
+      catering: "Hola Diana, me gustaría cotizar un servicio de catering. Mi evento es para [número de personas] personas el día [fecha].",
+      default: "Hola Diana, me gustaría obtener más información sobre tus servicios."
     }
   },
   en: {
@@ -105,100 +102,97 @@ export const dictionaries = {
       home: "Home",
       catering: "Catering",
       menu: "Menu",
-      sauces: "Hot Sauces",
+      sauces: "Sauces",
       desserts: "Desserts",
-      about: "About",
+      about: "Our Story",
       contact: "Contact",
       whatsapp: "Request a Quote"
     },
     hero: {
-      headline: "Homemade Mexican catering for gatherings that feel like home",
-      subheadline: "Diana Flores prepares authentic Mexican food in Chihuahua, offering catering, event setup, pickup orders, artisan desserts, and bottled hot sauces.",
-      primaryCta: "Request a Quote on WhatsApp",
-      secondaryCta: "View Menu"
+      headline: "Homemade Mexican catering with a touch of elegance.",
+      subheadline: "Diana Flores offers premium homemade Mexican catering in Chihuahua, combining the warmth of family-style cooking with thoughtful presentation for special events.",
+      primaryCta: "Request a Quote via WhatsApp",
+      secondaryCta: "Explore Menu"
     },
     valueProps: [
       {
         title: "Authentic homemade flavor",
-        description: "Mexican recipes prepared with care, warmth, and tradition."
+        description: "Mexican recipes prepared with care, exceptional seasoning, and the finest ingredients."
       },
       {
-        title: "Catering for your events",
-        description: "Perfect for family gatherings, birthdays, office lunches, and celebrations."
+        title: "Memorable experiences",
+        description: "Perfect for intimate gatherings, corporate lunches, and family events that deserve the best."
       },
       {
-        title: "Reliable event setup",
-        description: "Diana can support with preparation, presentation, and catering setup."
+        title: "Impeccable service",
+        description: "Diana supports with preparation, beautiful presentation, and reliable setup from start to finish."
       },
       {
-        title: "Pickup available",
-        description: "Meals, desserts, and bottled hot sauces available for pickup."
+        title: "Exclusive pickup options",
+        description: "Exquisite meals, artisan desserts, and signature sauces available made-to-order."
       }
     ],
     catering: {
-      headline: "Mexican catering for gatherings, parties, and special events",
-      body: "From family meals to larger celebrations, Diana prepares homemade Mexican dishes with generous portions, thoughtful presentation, and the kind of flavor guests remember.",
+      headline: "The taste of home, elegantly served",
+      body: "From warm family dinners to unforgettable celebrations. Diana prepares Mexican dishes that delight the palate, presented with a refined touch that elevates any special occasion.",
       events: [
-        "Family gatherings",
+        "Intimate gatherings",
         "Birthdays",
         "Baptisms",
-        "Holiday parties",
-        "Office lunches",
+        "Corporate events",
         "Private celebrations",
-        "Small & medium events"
+        "Boutique catering"
       ],
-      cta: "Request My Event Quote"
+      cta: "Quote my event"
     },
     menu: {
-      title: "Menu & Specialties",
-      body: "The menu can be customized based on your event type, guest count, and flavor preferences. Ask about available options for catering or pickup orders.",
+      title: "Culinary Selection",
+      body: "A menu designed to adapt to the elegance of your event and your personal preferences. Every dish is prepared from scratch.",
       categories: [
-        "Mexican stews",
-        "Tacos & taquizas",
-        "Enchiladas",
-        "Chiles rellenos",
-        "Mole",
-        "Tamales",
-        "Soups & broths",
-        "Rice, beans & sides",
-        "Homemade desserts",
-        "Bottled hot sauces"
+        "Premium Mexican stews",
+        "Artisan taquizas",
+        "Handcrafted enchiladas",
+        "Signature chiles rellenos",
+        "Soups & creams",
+        "Selected sides",
+        "Dessert tables",
+        "Signature sauces"
       ],
       cardCta: "Check availability"
     },
     sauces: {
-      headline: "Bottled hot sauces with homemade character",
-      body: "Diana also prepares bottled hot sauces with bold flavors, perfect for tacos, stews, meats, snacks, and everyday meals.",
+      headline: "Signature Bottled Sauces",
+      body: "Crafted in small batches, our bottled sauces bring the perfect balance of intensity and flavor to your everyday meals.",
       products: [
-        { name: "Red sauce", profile: "Classic, medium heat" },
-        { name: "Green sauce", profile: "Tangy, medium heat" },
-        { name: "Salsa macha", profile: "Spicy, crunchy texture" },
-        { name: "House special sauce", profile: "Secret recipe, smoky" }
+        { name: "Classic Red Sauce", profile: "Balanced and versatile" },
+        { name: "Fresh Green Sauce", profile: "Vibrant and citrusy" },
+        { name: "Artisan Salsa Macha", profile: "Deep heat, crunchy texture" },
+        { name: "Smoky Secret Sauce", profile: "Robust and elegant character" }
       ]
     },
     desserts: {
-      headline: "Desserts and sweets made to share",
-      body: "In addition to Mexican food, Diana prepares desserts and sweet treats for gatherings, celebrations, and special orders.",
+      headline: "Sweet Endings",
+      body: "Diana’s confectionery adds a touch of warmth to any celebration, crafted with the same standards of culinary excellence.",
       categories: [
-        "Cakes",
-        "Gelatins",
-        "Flan",
-        "Cookies",
-        "Homemade sweets",
-        "Event desserts"
+        "Custom cakes",
+        "Dessert cups",
+        "Artisan flan",
+        "Fine cookies",
+        "Sweet tables"
       ]
     },
     about: {
-      title: "About Diana",
-      body: "Diana Flores is a home chef in Chihuahua with a passion for Mexican food, family-style flavor, and cooking made with care. Her style combines traditional recipes, homemade seasoning, and thoughtful details that make every gathering feel warmer and more memorable.\n\nIn addition to catering, Diana prepares desserts, confectionery, and bottled hot sauces, offering a complete experience for customers looking for food made with care, flavor, and trust."
+      title: "Our Philosophy",
+      body: "For Diana Flores, cooking is more than food; it is the language of care and celebration. Based in Chihuahua, her culinary approach honors the richness of homemade Mexican cuisine, elevating it through polished presentation and absolute attention to detail.\n\nEvery event is an opportunity to create memories around the table, offering not just exceptional food, but a warm, reliable, and deeply satisfying experience."
     },
     contact: {
-      headline: "Tell Diana about your event",
-      body: "Send a WhatsApp message with your event date, approximate number of guests, and the type of food you have in mind.",
+      headline: "Start planning your event",
+      body: "Send a direct message to discuss dates, guest counts, and discover how we can make your next gathering extraordinary.",
       cta: "Send WhatsApp Message"
     },
     whatsapp: {
-      prefilledCatering: "Hi Diana, I’d like to request a catering quote. My event is for [number of guests] people on [date]."
+      catering: "Hi Diana, I’d like to request a catering quote. My event is for [number of guests] people on [date].",
+      default: "Hi Diana, I'd like to get more information about your services."
     }
   }
 };
